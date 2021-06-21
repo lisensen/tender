@@ -1,5 +1,7 @@
 # pzy-tender
 
+投标信息采集H5
+
 ## Project setup
 ```
 npm install
